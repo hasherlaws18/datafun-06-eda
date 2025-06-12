@@ -4,6 +4,7 @@
 
 ## Extrovert vs Introvert Behavior Data
 
+For this project I have used https://github.com/hasherlaws18/datafun-06-eda/blob/main/data/personality_dataset.csv
 The goal of this project is Precdicate personality types using EDA and data visulization tools.
 
 ## Overview
