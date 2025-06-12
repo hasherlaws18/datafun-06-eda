@@ -1,5 +1,11 @@
 # Specification for Project 6 EDA Notebook
 
+-Author: Houston Asher-Laws 
+
+## Extrovert vs Introvert Behavior Data
+
+The goal of this project is Precdicate personality types using EDA and data visulization tools.
+
 ## Overview
 
 Project 6 is an opportunity to create your own custom
